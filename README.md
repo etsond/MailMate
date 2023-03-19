@@ -1,5 +1,5 @@
 # MailMate
-PyMail is a Python script that allows you to send emails from the command line using the Gmail API. The script prompts the user to enter the recipient's email address, the subject of the email, and the body of the email. The email is then sent using the Gmail API.
+MailMatel is a Python script that allows you to send emails from the command line using the Gmail API. The script prompts the user to enter the recipient's email address, the subject of the email, and the body of the email. The email is then sent using the Gmail API.
 
 Installation
 To run this script, you must have Python installed on your machine.
